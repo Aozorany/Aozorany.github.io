@@ -1,0 +1,2 @@
+# Aozorany.github.io
+BLOG
