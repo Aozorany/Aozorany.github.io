@@ -1,2 +1,3 @@
 This is a foo.txt in main branch.
 And this is a line added in b01 branch.
+And this is a new line added in main branch.
